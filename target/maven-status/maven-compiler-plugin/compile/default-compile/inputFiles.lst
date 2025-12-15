@@ -1,0 +1,5 @@
+/home/pedro/dev/spring-batch-virtual-threads/src/main/java/com/exemplo/batch/BatchApplication.java
+/home/pedro/dev/spring-batch-virtual-threads/src/main/java/com/exemplo/batch/config/BatchConfig.java
+/home/pedro/dev/spring-batch-virtual-threads/src/main/java/com/exemplo/batch/domain/CustomerJson.java
+/home/pedro/dev/spring-batch-virtual-threads/src/main/java/com/exemplo/batch/domain/CustomerXml.java
+/home/pedro/dev/spring-batch-virtual-threads/src/main/java/com/exemplo/batch/tasklet/FileGenerationTasklet.java
